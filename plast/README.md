@@ -1,13 +1,13 @@
 # README.md
 
-- Last modified: fre mar 19, 2021  07:09
+- Last modified: fre mar 19, 2021  07:13
 - Sign: nylander
 
 ## Description
 
 Test using [plast](https://plast.inria.fr/) instead of blast.
 
-Start with out case with nt assemblies and aa baits, hence using `tplastn`:
+Start with our case with nt assemblies and aa baits, hence using `tplastn`:
 
     $ plast -p tplastn -i my_query -d my_databank -o my_results
 

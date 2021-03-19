@@ -1,0 +1,9 @@
+assemblies/
+baits/
+Old/
+blast_alibaseq_out/
+blast_results/
+plast_alibaseq_out/
+plast_results/
+*.swp
+list_of_files_to_seach_against.txt
